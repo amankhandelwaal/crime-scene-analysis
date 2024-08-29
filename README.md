@@ -15,5 +15,4 @@ The Crime Scene Analysis project is designed to assist investigators by utilizin
 - **YOLOv8**: For state-of-the-art object detection.
 - **OpenCV**: For image processing and enhancement.
 - **PyTorch**: As the deep learning framework powering the model.
-- **Streamlit (Optional)**: For creating a simple and interactive GUI.
 - **Edge Computing**: Utilized for real-time processing on resource-constrained devices.
